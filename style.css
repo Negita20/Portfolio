@@ -448,13 +448,5 @@ projects-section {
 .contact-form button:hover {
   opacity: 0.9;
 } 
-.footer {
-  background-color: #121826;
-  color: #d1d5db;
-  text-align: center;
-  padding: 1px 1px;
-  font-size: 0.9rem;
-  margin-top: 50px;
-  border-top: 1px solid #2c2c3e;
-}
+
 
