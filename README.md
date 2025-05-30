@@ -1,5 +1,5 @@
 # Portfolio
-Personal Portfolio Website
+
 This is a personal portfolio website built using HTML and CSS. It showcases my skills, projects, education, and contact information in a clean and interactive design. The site includes smooth animations, ana a dynamic background.
 
 ### Features:
